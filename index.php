@@ -5,6 +5,7 @@ session_start();
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
+    <!-- Necio -->
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Cursos | Educación</title>
